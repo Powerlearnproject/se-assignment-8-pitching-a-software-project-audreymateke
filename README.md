@@ -198,28 +198,15 @@ Testing:
 
    - Example: LinkedIn targets professionals, recruiters, and companies seeking talent.
    - Revenue Streams: Identify how your software will generate income. This could be through subscriptions, one-time purchases, advertising, or freemiums.
-
-   - Example: Spotify uses a freemium model with paid premium subscriptions.
-   - Channels: Describe how you will reach and deliver your product to customers.
-
+     
    - Example: Salesforce uses direct sales, online marketing, and partner channels.
    - Customer Relationships: Explain how you will acquire, retain, and grow your customer base.
-
-   - Example: HubSpot uses customer support, onboarding services, and educational content.
+   -  Example: HubSpot uses customer support, onboarding services, and educational content.
      
-   - Key Activities: Outline the most important actions your company must take to operate successfully.
-   - Example: For a SaaS company, key activities might include software development, marketing, and customer support.
-     
-   - Key Resources: List the essential assets needed to make your business model work.
-   - Example: GitHub's key resources include its platform, developer community, and data centers.
-     
-   - Key Partnerships: Identify other businesses or organizations you will collaborate with.
-   - Example: Apple's partnerships with app developers and content creators for the App Store.
-     
-   - Cost Structure: Highlight the major costs associated with running your business.
-   - Example: AWS's cost structure includes server maintenance, R&D, and marketing.
+   
      
 Benefits of a Well-Defined Business Model:
+
 A well-defined business model clarifies the roadmap to profitability, demonstrating to investors that you have a thorough understanding of your market and how you plan to succeed. It reduces risks by showing you have considered various aspects of the business and have a strategy for addressing them. It also helps to align the team and stakeholders on the company’s goals and how to achieve them.
 
 8. Implementation Plan:
